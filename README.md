@@ -36,8 +36,6 @@ API RESTful desarrollada en **PHP puro** y **MySQL** para gestionar toda la info
 |----------|-----|
 | 🌐 **API Principal** | [https://mundialapi2026.rf.gd](https://mundialapi2026.rf.gd) |
 | 📋 **Explorador de datos** | [https://mundialapi2026.rf.gd/selections.php](https://mundialapi2026.rf.gd/selections.php) |
-| ⚽ **Máximos Goleadores** | [https://mundialapi2026.rf.gd/goleadores.php](https://mundialapi2026.rf.gd/goleadores.php) |
-| 🔐 **Panel Admin** | [https://mundialapi2026.rf.gd/admin/](https://mundialapi2026.rf.gd/admin/) |
 
 ---
 
